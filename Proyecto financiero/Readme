@@ -1,0 +1,4 @@
+Desarrollé una herramienta en Python orientada al análisis de datos. 
+El sistema recibe información histórica, realiza una estimación de tendencias mediante regresión lineal y monitorea los nuevos datos que ingresan. 
+Cuando detecta valores fuera del comportamiento esperado, genera alertas y registra la información en reportes automáticos. 
+Además, incorporé indicadores de negocio como ticket promedio y cumplimiento de metas para apoyar el análisis y la toma de decisiones.
